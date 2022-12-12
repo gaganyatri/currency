@@ -8,7 +8,12 @@ Sustainable currency for 1000 years
 * No. of issues solved
 * Meets gaganyatri guidelines
 
+Current Amount - 30 - 12 /12 / 2022
+
 ----
+
+<!-- 
+https://docs.github.com/en/rest/metrics/statistics?apiVersion=2022-11-28
 
 Keep pushing the need 
 
@@ -36,3 +41,4 @@ Only one priority,  build a 1000 years Mars civilization.
 Everything else is a distraction and should be rejected immediately.
 
 ----
+-->
